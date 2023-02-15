@@ -1,0 +1,30 @@
+html, body{
+    background-image: url('stars.png');
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+header{
+    text-align: center;
+    width: 40%;
+    height: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.461);;
+}
+main{
+    text-align: center;
+    width: 40%;
+    height: 85%;
+    background-color: rgba(0, 0, 0, 0.461);
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    width: 40%;
+    height: 10%;
+    background-color: rgba(0, 0, 0, 0.461);
+    margin-left: auto;
+    margin-right: auto;
+}
